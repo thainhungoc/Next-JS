@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "userName": "john_doe",
+        "email": "abc@gmail.com",
+        "email_verified": true,
+        "password": "123"
+    }
+]
